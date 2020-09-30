@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Github 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=harkue&count_private=true&hide_title=true&show_icons=true&theme=dark" />
 
 <!--
 **harkue/harkue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
