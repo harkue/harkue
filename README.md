@@ -1,5 +1,13 @@
 ### Hi Github 👋
 
+- 🔭 I’m currently working on [oss-insight](https://github.com/harkue/oss-insight)
+- 🌱 I’m currently learning `Typescript`
+- 👯 I’m looking to collaborate on `fastjson`
+- 🤔 I’m looking for help with ...
+- 📫 You can reach me at: https://harkue.github.io/
+- 😄 Pronouns: `open source for fun`
+- ⚡ Fun fact: `Swimming`
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=harkue&count_private=true&hide_title=true&show_icons=true&theme=dark" />
 
 <!--
